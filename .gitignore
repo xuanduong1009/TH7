@@ -1,0 +1,14 @@
+.venv/
+.packages/
+.tmp/
+__pycache__/
+*.pyc
+
+data/
+indexes/
+runs/
+trace/
+results/
+
+.DS_Store
+Thumbs.db

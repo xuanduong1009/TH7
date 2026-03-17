@@ -1,0 +1,7 @@
+ir_datasets
+pyserini
+transformers
+torch
+ranx
+pandas
+tqdm
